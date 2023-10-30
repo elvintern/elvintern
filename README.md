@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jinwoo/Elvin Park.</h1>
+<h1 align="center">Hi 👋, I'm Elvin Park.</h1>
 <h3 align="center">Front-end Developer/Engineer (with Full-stack Experience) | Bringing Creativity and Technical Expertise to Solve Problems</h3>
 
 - 🔭 I’m currently working on [mvp-onboarding-task](https://github.com/elvintern/mvp-onboarding-task)
