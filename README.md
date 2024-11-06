@@ -7,7 +7,7 @@
 
 - 👨‍💻 Most of my projects are available at [https://elvintern.github.io/](https://elvintern.github.io/)
 
-- 📫 How to reach me **elvintern@gmail.com**
+- 📫 Feel free to reach me **elvintern@gmail.com**
 
 - ⚡ Fun fact **I am well known for Dad Jokes**
 
